@@ -56,6 +56,15 @@ p {
     text-align: center;
 }
 
+.city-temp-max-min {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 5px;
+    color: #1e2432;
+    text-align: center;
+}
+
+
 .city sup {
     font-size: 0.5em;
 }
