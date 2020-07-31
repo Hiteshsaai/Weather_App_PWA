@@ -44,10 +44,10 @@ const App = () => {
                         <p> {weather.weather[0].description}</p>
                     </div>
                     <div className = 'city-temp-max-min'>
-                        Max Temperature: {Math.round(weather.main.temp_max)}
+                        Max Temperature:{Math.round(weather.main.temp_max)}
                         <sup> &deg;C </sup>
                         &nbsp;
-                        Min Temperature: {Math.round(weather.main.temp_min)}
+                        Min Temperature:{Math.round(weather.main.temp_min)}
                         <sup> &deg;C </sup>
                     </div>
  
