@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Weather Application PWA( Progressive Web Application)
+# PWA Weather Application ( Progressive Web Application)
 
 
 # About PWA 
