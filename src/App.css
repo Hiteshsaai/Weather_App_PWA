@@ -6,13 +6,13 @@ html, body, #root {
     margin: 0;
 }
 
-/* https://wallpaperaccess.com/full/1540001.jpg */
 
-.main-container {
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), url('https://www.bluefinllc.com/wp-content/uploads/2019/08/AdobeStock_120884346_sm-e1566503899644.jpg    ');
-    background-size: cover;
+/* .main-container {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.418) ), url('https://www.bluefinllc.com/wp-content/uploads/2019/08/AdobeStock_120884346_sm-e1566503899644.jpg    ');
+    /* background-image: url('https://www.bluefinllc.com/wp-content/uploads/2019/08/AdobeStock_120884346_sm-e1566503899644.jpg    '); */
+    /*background-size: cover;
     background-position: center;
-}
+} */
 
 .main-container {
     height: 100%;
@@ -21,6 +21,14 @@ html, body, #root {
     align-items: center;
     flex-direction: column;
 }
+
+.heading{
+    color: #00bcd4;
+    text-align: center;
+    opacity: 0.4;
+    font-size: 45px;
+    font-family: 'Open Sans', sans-serif;}
+
 
 .search {
     outline: none;
