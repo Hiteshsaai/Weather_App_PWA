@@ -10,5 +10,5 @@ PWA stands for progressive web app. This is an app built from the web technologi
 
 ## Project Link
 
-[Weather App](pwa-weatherapp-hitesh.netlify.app)
+[Weather App](https://pwa-weatherapp-hitesh.netlify.app)
 
