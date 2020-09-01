@@ -23,9 +23,9 @@ html, body, #root {
 }
 
 .heading{
-    color: #00bcd4;
+    color: #111111;
     text-align: center;
-    opacity: 0.4;
+    opacity: 0.8;
     font-size: 45px;
     font-family: 'Open Sans', sans-serif;}
 
