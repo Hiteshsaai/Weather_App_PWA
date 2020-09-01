@@ -14,6 +14,8 @@ requirement for users to install the web apps via digital distribution systems l
 ## DEMO
 
 Here is the demo for the PWA app, on how to use it both as Web and native react app. 
+![Demo](https://github.com/Hiteshsaai/Weather_App_PWA/blob/master/screen-capture.webm)
+
 
 
 
