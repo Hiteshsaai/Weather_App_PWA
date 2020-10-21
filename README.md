@@ -1,4 +1,4 @@
-# PWA Weather Application ( Progressive Web Application)
+# PWA(Progressive Web Application) Weather Application
 
 
 # Purpose and benifits of PWA Weather App. 
