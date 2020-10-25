@@ -18,7 +18,7 @@ Here is the demo for the PWA app, on how to use it both as Web and native react 
 
 
 
-## Project Link
+## Weather App Link
 
 [Weather App](https://pwa-weatherapp-hitesh.netlify.app)
 
