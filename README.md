@@ -1,7 +1,7 @@
 # PWA Weather Application
 
 
-# Purpose and benifits of PWA Weather App 
+# Purpose & benifits of PWA App
 
 • PWA stands for progressive web app. This is an app built from the web technologies we all know and love, like HTML, CSS, and JavaScript, but with a feel and functionality that rivals an actual native app. PWA is a type of application which can act both as a web application and Native Application. </br>
 • Build this PWA weather APP ,which intended to work on any platform that uses a standards-compliant browser. </br>
